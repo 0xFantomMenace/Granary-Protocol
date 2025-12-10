@@ -1,0 +1,13 @@
+node_modules
+.env
+.env.local
+.env.*.local
+coverage
+coverage.json
+typechain-types
+package-lock.json
+desktop.ini
+
+# Hardhat files
+cache
+artifacts
